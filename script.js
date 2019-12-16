@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () =>{
         // сбрасываем форму после записи данных в массив orders
         formCustomer.reset();
 
-        // console.log(orders);
+        console.log(orders);
     });
 
 });
